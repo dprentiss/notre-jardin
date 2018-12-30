@@ -1,0 +1,14 @@
+* vegetables
+** kale
+** carrots
+** tomatoes
+** eggplant
+** peppers
+** bunching onions
+** garlic
+** asparagus
+** zucchini
+** pumpkin
+* shopping list
+** kale seed
+*** which variety?
