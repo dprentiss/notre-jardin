@@ -1,14 +1,39 @@
 * vegetables
-** kale
 ** carrots
-** tomatoes
+*** direct sow
 ** eggplant
-** peppers
-** bunching onions
 ** garlic
-** asparagus
-** zucchini
+** kale
+** onions
+** peppers
 ** pumpkin
+
+** tomatoes
+** zucchini
+*** direct sow
+* equipment
+** seed starting
+*** table
+*** lights
+*** containers
+*** irrigation
+** containers
+*** 5-gallon buckets
+*** irrigation
+** raised beds
+*** bed frame
+*** frost frame
+*** root barrier
+*** weed barrier
+*** irrigation
+** plant stakes
+** soil
+*** Terra Tote Garden Soil, $4/cuft
 * shopping list
-** kale seed
-*** which variety?
+** carrot seed, Nantes
+** eggplant seeds, Black Beauty or similar
+** kale seed, Tuscan
+** onion sets, long day
+** pumpkin seed, Cinderella
+** zucchini seed
+**
