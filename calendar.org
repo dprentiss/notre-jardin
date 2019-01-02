@@ -1,9 +1,11 @@
 * vegetables
 ** carrots
 *** direct sow
+** beets
 ** eggplant
 ** garlic
 ** kale
+** lettuce
 ** onions
 ** peppers
 ** pumpkin
